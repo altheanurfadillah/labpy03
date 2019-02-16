@@ -148,7 +148,8 @@
 
 Sekian tentang Pengertian dan Beberapa Program beserta Contoh Alur Algoritma yang telah saya buat., Jika ada kesalahan saya minta maaf,.
 
-                                                        "ALTHEA NUR FADILLAH"
-                                                        "   TUGAS PRAKUM 3  "
-                                                        "    TI.18.A1       "
+
+                                                        ALTHEA NUR FADILLAH
+                                                          TUGAS PRAKUM 3 
+                                                             TI.18.A1
                                                      
