@@ -145,4 +145,10 @@
    Dan ini Merupakan Hasil SreenShoot Program 1
    ![8](https://user-images.githubusercontent.com/44330055/52686315-ae1d0400-2f7f-11e9-8e32-d4b94505a043.png)
 
-          
+
+Sekian tentang Pengertian dan Beberapa Program beserta Contoh Alur Algoritma yang telah saya buat., Jika ada kesalahan saya minta maaf,.
+
+                                                        "ALTHEA NUR FADILLAH"
+                                                        "   TUGAS PRAKUM 3  "
+                                                        "    TI.18.A1       "
+                                                     
